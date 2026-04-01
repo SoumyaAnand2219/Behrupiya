@@ -9,3 +9,4 @@ smartapi-python
 websocket-client
 openpyxl
 logzero
+requests
