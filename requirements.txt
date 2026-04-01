@@ -6,5 +6,6 @@ pyotp
 scikit-learn
 tslearn
 smartapi-python
+websocket-client
 openpyxl
 logzero
