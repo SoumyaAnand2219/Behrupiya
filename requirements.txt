@@ -7,3 +7,4 @@ scikit-learn
 tslearn
 smartapi-python
 openpyxl
+logzero
